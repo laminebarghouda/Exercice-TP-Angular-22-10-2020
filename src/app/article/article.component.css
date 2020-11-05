@@ -1,0 +1,13 @@
+.alert{
+  margin: 50px;
+  border: black solid 1px;
+  border-radius: 10px;
+}
+
+.form-group{
+  margin: 50px;
+}
+
+input{
+  border-radius: 10px;
+}
